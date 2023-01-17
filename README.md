@@ -1,2 +1,0 @@
-# magentoTools
-magentoTools
